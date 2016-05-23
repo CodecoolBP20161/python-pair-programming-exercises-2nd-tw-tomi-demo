@@ -1,5 +1,5 @@
 def fizzbuzz(number):
-    return
+    return number
 
 
 def main():
